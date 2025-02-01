@@ -22,7 +22,7 @@ Extensive documentation and forums can be found on the [OpenEMR website](https:/
 
 ### Reporting Issues and Bugs
 
-Report these on the [Issue Tracker](https://github.com/openemr/openemr/issues). If you are unsure if it is an issue/bug, then always feel free to use the [Forum](https://community.open-emr.org/) and [Chat](https://www.open-emr.org/chat/) to discuss about the issue 🪲.
+
 
 ### Reporting Security Vulnerabilities
 
@@ -36,32 +36,22 @@ Check out [API_README.md](API_README.md)
 
 Check out [DOCKER_README.md](DOCKER_README.md)
 
-### FHIR
-
-Check out [FHIR_README.md](FHIR_README.md)
 
 ### For Developers
 
-If using OpenEMR directly from the code repository, then the following commands will build OpenEMR (Node.js version 18.* is required) :
 
-```shell
-composer install --no-dev
-npm install
-npm run build
-composer dump-autoload -o
-```
 
 ### Contributors
 
-This project exists thanks to all the people who have contributed. [[Contribute]](CONTRIBUTING.md).
-<a href="https://github.com/openemr/openemr/graphs/contributors"><img src="https://opencollective.com/openemr/contributors.svg?width=890" /></a>
+This project exists thanks to all the people who have contributed. 
+All Dev engineerinf in SMAfrica
 
 
 ### Sponsors
 
-Thanks to our [ONC Certification Major Sponsors](https://www.open-emr.org/wiki/index.php/OpenEMR_Certification_Stage_III_Meaningful_Use#Major_sponsors)!
+SMAfrica
 
 
 ### License
 
-[GNU GPL](LICENSE)
+
