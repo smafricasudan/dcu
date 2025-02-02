@@ -1,10 +1,25 @@
-![Syntax Status](https://github.com/openemr/openemr/workflows/Syntax/badge.svg?branch=master)
-![Styling Status](https://github.com/openemr/openemr/workflows/Styling/badge.svg?branch=rel-702)
-![Testing Status](https://github.com/openemr/openemr/workflows/Test/badge.svg?branch=rel-702)
-
-[![Backers on Open Collective](https://opencollective.com/openemr/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/openemr/sponsors/badge.svg)](#sponsors)
-
 # DCU Platform Project 
+Key Components
+
+Telemedicine Consultations: Real-time patient care via digital platforms.
+
+EHR Integration: Seamless data management and continuity of care.
+
+Reliable Connectivity: Solar-powered systems and Starlink satellite internet.
+
+Capacity Building: Training programs for local health workers and community members.
+
+Impact Goals
+
+Improve Healthcare Access: Increase the availability of healthcare services by deploying Digital Consultation Units (DCUs) in local health centers, ensuring that remote communities can receive timely, high-quality care.
+
+Enhance Local Health Worker Expertise: Elevate the capacity of local healthcare providers through real-time guidance and mentorship from senior health professionals, boosting their ability to make accurate diagnoses and deliver effective treatments.
+
+Strengthen Healthcare Resilience in Sudan: Build a more robust healthcare system in conflict-affected regions by integrating telehealth solutions, electronic health records, and sustainable technologies, improving healthcare delivery during crises and preparing for future challenges. (visuals)
+
+
+# Source code:
+Thanks to Openemr contributors for the great work 
 
 [OpenEMR](https://open-emr.org) is a Free and Open Source electronic health records and medical practice management application. It features fully integrated electronic health records, practice management, scheduling, electronic billing, internationalization, free support, a vibrant community, and a whole lot more. It runs on Windows, Linux, Mac OS X, and many other platforms.
 
